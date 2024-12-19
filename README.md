@@ -3,6 +3,7 @@
 
 This is a simple personal portfolio website created by Reduan Ahmad. It is a platform to showcase your work, share your resume, 
 and give you contact information so you can connect with them. The website uses HTML, CSS (with Tailwind CSS), and JavaScript. You can use this as a template.
+## Live Preview: [click here](https://ahmadreduan.github.io/Perosnal-Website/)
 
 ## Table of Contents
 
@@ -29,13 +30,6 @@ and give you contact information so you can connect with them. The website uses 
 - JavaScript
 - [Font Awesome](https://fontawesome.com/) for icons
 
-- [Formspree](https://formspree.io/) for the contact form
-   use your Formspree URL in the code below:
-   ```bash
-       
-         <form action="{use your formspree URL here}" method="POST">
-
-   ```
 
 
 ## How to Use
